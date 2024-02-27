@@ -66,7 +66,6 @@ for (let i=0; i<10; i++){
     div.style.background=colores[color]
 }
 ```
-![Adjunto muestra de la pagina](![alt text](imagen1.png))
  
 ---
 
@@ -110,7 +109,6 @@ for (let i=0; i<10; i++){
     div.style.background=colores[i]
 }
 ```
-![Resultado obtenido:](![alt text](imagen2.png))
 ---
 ## Script3 **(Parrafos inteligentes)**
 En este script3 se debe generar 5 parrafos inteligentes qu emuestre los carcateres.
@@ -161,6 +159,3 @@ function noPalabras(){
   return numPalabrasEme;
 }
 ```
-Este es el resultado de la web:
-
-![alt text](imagen3.png)
